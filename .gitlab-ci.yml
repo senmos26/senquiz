@@ -3,10 +3,9 @@ image: alpine:latest
 pages:
     stage: deploy
     script:
-        - echo 'Generating index.html...'
-        - touch index.html
+        - echo 'Nothing to do...'
     artifacts:
         paths:
-            - index.html
+            - ""
     only:
         - main
