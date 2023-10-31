@@ -22,9 +22,6 @@ letter-spacing: 0.1rem;
 transition: 0.5s;
 z-index: 1;
 }
-body{
-    background: url("./wickedbackground\ \(2\).png");
-}
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
 
